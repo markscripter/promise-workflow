@@ -13,7 +13,7 @@ function workflowFactory() {
   /**
    * This object creates a workflow, using Promises.
    * @module workflow
-   * @author Mark Scripter [mscripter@horizontalintegration.com]
+   * @author Mark Scripter [markscript@gmail.com]
    * @example
    * import workflowFactory from './workflowFactory';
    * const workflow = workFlowFactory();
